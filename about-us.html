@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>About Us - Motorx</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/images/logo/favicon.png">
+    <style>
+        /* About Us Page Specific Styles */
+        .about-hero-section {
+            position: relative;
+            height: 500px;
+            overflow: hidden;
+            margin-bottom: 80px;
+        }
+
+        .hero-image-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        .hero-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .hero-overlay-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
+
+        .hero-text h2 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: white;
+        }
+
+        .hero-text p {
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 0;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .about-intro {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .about-intro h2 {
+            font-size: 42px;
+            margin-bottom: 25px;
+            color: #0D1637;
+        }
+
+        .about-intro p {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #595960;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .about-mission-vision {
+            margin-bottom: 80px;
+        }
+
+        .mission-box, .vision-box {
+            background: #f8f9fa;
+            padding: 40px;
+            border-radius: 10px;
+            height: 100%;
+            transition: transform 0.3s ease;
+        }
+
+        .mission-box:hover, .vision-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .mission-box h3, .vision-box h3 {
+            color: #D01818;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+
+        .about-services {
+            margin-bottom: 80px;
+        }
+
+        .about-services h3 {
+            text-align: center;
+            font-size: 36px;
+            margin-bottom: 50px;
+            color: #0D1637;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .service-item {
+            text-align: center;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease;
+        }
+
+        .service-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .service-icon {
+            width: 80px;
+            height: 80px;
+            background: #D01818;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            color: white;
+            font-size: 30px;
+        }
+
+        .service-item h4 {
+            font-size: 22px;
+            margin-bottom: 15px;
+            color: #0D1637;
+        }
+
+        .service-item p {
+            color: #595960;
+            line-height: 1.6;
+        }
+
+        .about-team {
+            margin-bottom: 80px;
+        }
+
+        .about-team h3 {
+            text-align: center;
+            font-size: 36px;
+            margin-bottom: 50px;
+            color: #0D1637;
+        }
+
+        .team-section {
+            margin-top: 40px;
+        }
+
+        .team-member {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .team-image {
+            width: 200px;
+            height: 200px;
+            margin: 0 auto 20px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 5px solid #f0f0f0;
+        }
+
+        .team-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .team-info h4 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #0D1637;
+        }
+
+        .team-info .position {
+            color: #D01818;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .team-info .description {
+            color: #595960;
+            font-size: 14px;
+        }
+
+        .about-stats {
+            background: #f8f9fa;
+            padding: 60px 0;
+            border-radius: 10px;
+            margin-bottom: 60px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .stat-number {
+            font-size: 48px;
+            font-weight: 700;
+            color: #D01818;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            font-size: 18px;
+            color: #0D1637;
+            font-weight: 600;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .about-hero-section {
+                height: 400px;
+            }
+
+            .hero-text h2 {
+                font-size: 36px;
+            }
+
+            .hero-text p {
+                font-size: 18px;
+            }
+
+            .about-intro h2 {
+                font-size: 32px;
+            }
+
+            .about-intro p {
+                font-size: 16px;
+            }
+
+            .services-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .mission-box, .vision-box {
+                margin-bottom: 30px;
+            }
+
+            .stat-number {
+                font-size: 36px;
+            }
+
+            .stat-label {
+                font-size: 16px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .about-hero-section {
+                height: 300px;
+            }
+
+            .hero-text h2 {
+                font-size: 28px;
+            }
+
+            .hero-text p {
+                font-size: 16px;
+            }
+
+            .about-intro h2 {
+                font-size: 28px;
+            }
+
+            .service-item {
+                padding: 20px;
+            }
+
+            .team-image {
+                width: 150px;
+                height: 150px;
+            }
+        }
+    </style>
+</head>
+
+<body class="body counter-scroll">
+
+    <div id="wrapper">
+        <div id="page" class="clearfix">
+
+            <!-- Main Header -->
+            <header id="header" class="main-header header header-fixed ">
+                <div class="header-lower">
+                    <div class="themesflat-container w1700">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="inner-container flex justify-space align-center">
+                                    <div class="logo-box flex">
+                                        <div class="logo"><a href="index.html"><img src="assets/images/logo/logo2@.png" alt="Logo"></a></div>
+                                    </div>
+                                    <div class="nav-outer flex align-center">
+                                        <nav class="main-menu show navbar-expand-md">
+                                            <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                                                <ul class="navigation clearfix">
+                                                    <li><a href="index.html">Home</a></li>
+                                                    <li><a href="car-list.html">Cars</a></li>
+                                                    <li class="current"><a href="about-us.html">About Us</a></li>
+                                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                                </ul>
+                                            </div>
+                                        </nav>
+                                    </div>
+                                    <div class="mobile-nav-toggler mobile-button">
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Mobile Menu  -->
+                <div class="close-btn"><span class="icon flaticon-cancel-1"></span></div>
+                <div class="mobile-menu">
+                    <div class="menu-backdrop"></div>
+                    <nav class="menu-box">
+                        <div class="nav-logo">
+                            <a href="index.html"><img src="assets/images/logo/logo2@.png" alt="Logo Motorx"></a>
+                        </div>
+                        <div class="bottom-canvas">
+                            <div class="menu-outer">
+                                <ul class="navigation clearfix">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="car-list.html">Cars</a></li>
+                                    <li class="current"><a href="about-us.html">About Us</a></li>
+                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+                <!-- End Mobile Menu -->
+            </header>
+            <!-- End Main Header -->
+
+            <!-- Hero Section with Image -->
+            <section class="about-hero-section">
+                <div class="hero-image-container">
+                    <img src="assets/images/banner/sunset-race.jpg" alt="About Motorx - Premium Car Rentals" class="hero-image">
+                    <div class="hero-overlay-content">
+                        <div class="themesflat-container">
+                            <div class="hero-text">
+                                <h2>Leading the Way in Premium Car Rentals</h2>
+                                <p>Experience excellence with our curated fleet of luxury vehicles</p>
+                                <div class="random-car-image" style="margin-top: 20px; text-align: center;">
+                                    <!-- <img src="assets/images/car-list/Lamborghini-Evo-Spyder-for-Rent-in-Dubai-2.JPG" alt="Luxury Car" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- End Hero Section -->
+
+            <!-- Main Content -->
+            <div class="widget-about-us">
+                <div class="themesflat-container">
+                    <div class="about-us-content">
+                        <div class="about-intro">
+                            <h2>Welcome to Motorx</h2>
+                            <p>At Motorx, we are dedicated to providing the best car rental experience. Our fleet includes a wide range of vehicles to suit every need and budget, from luxury sedans to powerful SUVs and sports cars. With over 15 years of experience in the automotive industry, we understand what our customers need and strive to exceed their expectations at every turn.</p>
+                        </div>
+
+                        <div class="about-mission-vision">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="mission-box">
+                                        <h3>Our Mission</h3>
+                                        <p>To deliver exceptional service and quality vehicles to our customers, ensuring a seamless and enjoyable rental experience that exceeds expectations. We believe in transparency, reliability, and building lasting relationships with our clients.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="vision-box">
+                                        <h3>Our Vision</h3>
+                                        <p>To be the leading car rental service provider, recognized for our commitment to customer satisfaction, innovation, and sustainable luxury transportation. We aim to set new standards in the premium car rental industry.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="about-services">
+                            <h3>Key Services</h3>
+                            <div class="services-grid">
+                                <div class="service-item">
+                                    <div class="service-icon">
+                                        🚗
+                                    </div>
+                                    <h4>Wide Selection</h4>
+                                    <p>Over 200+ premium vehicles from top brands including Mercedes, BMW, Audi, and more</p>
+                                </div>
+                                <div class="service-item">
+                                    <div class="service-icon">
+                                        📞
+                                    </div>
+                                    <h4>24/7 Support</h4>
+                                    <p>Round-the-clock customer assistance with dedicated support team</p>
+                                </div>
+                                <div class="service-item">
+                                    <div class="service-icon">
+                                        📅
+                                    </div>
+                                    <h4>Flexible Options</h4>
+                                    <p>Short-term, long-term, and custom rental packages tailored to your needs</p>
+                                </div>
+                                <div class="service-item">
+                                    <div class="service-icon">
+                                        💰
+                                    </div>
+                                    <h4>Competitive Pricing</h4>
+                                    <p>Transparent pricing with no hidden fees and special corporate rates</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="about-team">
+                            <h3>Meet Our Team</h3>
+                            <div class="team-section">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="team-member">
+                                            <div class="team-image">
+                                                <img src="assets/images/testimonial/avatar_1.jpeg" alt="John Doe">
+                                            </div>
+                                            <div class="team-info">
+                                                <h4>John Doe</h4>
+                                                <p class="position">CEO & Founder</p>
+                                                <p class="description">15+ years in luxury automotive industry with expertise in premium vehicle management</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="team-member">
+                                            <div class="team-image">
+                                                <img src="assets/images/testimonial/avatar_2.jpeg" alt="Jane Smith">
+                                            </div>
+                                            <div class="team-info">
+                                                <h4>Jane Smith</h4>
+                                                <p class="position">Operations Manager</p>
+                                                <p class="description">Ensuring seamless rental experiences with meticulous attention to detail</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="team-member">
+                                            <div class="team-image">
+                                                <img src="assets/images/testimonial/avatar_3.jpg" alt="Mike Johnson">
+                                            </div>
+                                            <div class="team-info">
+                                                <h4>Mike Johnson</h4>
+                                                <p class="position">Customer Service Lead</p>
+                                                <p class="description">Dedicated to customer satisfaction with 10+ years in hospitality and automotive sectors</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="about-stats">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="stat-item">
+                                        <h3 class="stat-number">500+</h3>
+                                        <p class="stat-label">Happy Customers</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="stat-item">
+                                        <h3 class="stat-number">200+</h3>
+                                        <p class="stat-label">Premium Vehicles</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="stat-item">
+                                        <h3 class="stat-number">15+</h3>
+                                        <p class="stat-label">Years Experience</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="stat-item">
+                                        <h3 class="stat-number">24/7</h3>
+                                        <p class="stat-label">Support Available</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Main Content -->
+
+            <!-- Footer -->
+            <footer id="footer" class="clearfix bg-footer2 pd-t81 re-hi">
+                <div class="themesflat-container">
+                    <div class="row footer-top">
+                        <div class="col-lg-6 col-md-12 col-12 pd-r80 ">
+                            <h2 class="title-footer-top">Do you Have <span class="red-title">something</span> to Rent through us?</h2>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-12 t-al-right pt-20">
+                            <a href="#" class="btn-sell">Rent your car today</a>
+                        </div>
+                    </div>
+                    <div class="row footer-main">
+                        <div class="col-lg-3 col-md-6 col-12">
+                            <div class="widget widget-info">
+                                <img src="assets/images/logo/logo2.png" alt="Logo Footer">
+                                <p>The world’s first and largest digital market for crypto collectibles and non-fungible (NFTs). Buy</p>
+                                <ul>
+                                    <li><i class="icon-Vector1"></i><p>14 New South Head Rd,Triple 3148London, UK</p></li>
+                                    <li><i class="icon-Group-1"></i><p>needhelp@company.com</p></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-12">
+                            <div class="widget widget-menu pl-60">
+                                <h3>Quick Links</h3>
+                                <ul class="box-menu">
+                                    <li><a href="index.html">About Us</a></li>
+                                    <li><a href="car-list.html">Cars For Rent</a></li>
+                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-12">
+                            <div class="widget widget-menu widget-form">
+                                <h3>Newsletter</h3>
+                                <form method="post" class="email-footer-form form-submit" action="#" accept-charset="utf-8">
+                                    <div class="text-wrap clearfix">
+                                        <fieldset class="email-wrap style-text">
+                                            <input type="email" class="tb-my-input" name="email" placeholder="Enter Email Address" required="">
+                                        </fieldset>
+                                        <button name="submit" type="submit" class="btn-submit-email"><i class="icon-Group"></i></button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row footer-bottom">
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4">
+                            <p class="coppy-right">Made with ❤️ by <a href="#">Themesflat</a></p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4">
+                            <ul class="social-icon">
+                                <li><a href="#"><i class="icon-6"></i></a></li>
+                                <li><a href="#

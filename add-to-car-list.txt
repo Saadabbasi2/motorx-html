@@ -1,0 +1,5 @@
+Add this line to car-list.html before </body>:
+
+<script src="assets/js/link-cards.js"></script>
+
+Insert it after line 4741 (after main.js) and before line 4743 (</body>)

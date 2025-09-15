@@ -1,0 +1,1019 @@
+{
+  "cars": [
+    {
+      "id": "ferrari-f8-spyder-2023",
+      "brand": "Ferrari",
+      "model": "F8 Spyder",
+      "year": 2023,
+      "location": "Dubai, United Arab Emirates",
+      "pricePerDayAED": 2800,
+      "condition": "New",
+      "fuel": "Petrol",
+      "doors": 2,
+      "color": "Red",
+      "mileageLimit": "200 km",
+      "seats": 2,
+      "transmission": "Automatic",
+      "description": "Experience the thrill of the Ferrari F8 Spyder 2023 for rent in Dubai. With its stunning design and exhilarating performance, this luxury convertible promises unforgettable adventures on the road.",
+      "images": [
+        "assets/images/car-list/Ferrari-F8-Spyder-1.jpg",
+        "assets/images/car-list/Ferrari-F8-Spyder-2.JPG",
+        "assets/images/car-list/Ferrari-F8-Spyder-3-qvlthk4616ft5zsuh4se9two7u4oj2opmevn36zwuo.jpg",
+        "assets/images/car-list/Ferrari-F8-Spyder-4.jpg",
+        "assets/images/car-list/Ferrari-F8-Spyder-5.jpg"
+      ]
+    },
+    {
+      "id": "rolls-royce-cullinan-2022",
+      "brand": "Rolls-Royce",
+      "model": "Cullinan",
+      "year": 2022,
+      "location": "Dubai, United Arab Emirates",
+      "pricePerDayAED": 4000,
+      "condition": "New",
+      "fuel": "Petrol",
+      "doors": 4,
+      "color": "Black",
+      "mileageLimit": "220 km",
+      "seats": 5,
+      "transmission": "Automatic",
+      "description": "Rent the Rolls‑Royce Cullinan for opulent comfort and unmatched road presence.",
+      "images": [
+        "assets/images/car-list/Rolls-Royce-Cullinan-2022-For-Rent-in-Dubai-1.jpg",
+        "assets/images/car-list/Rolls-Royce-Cullinan-2022-For-Rent-in-Dubai-2-qvukfub53bozhib8v6241nk8kh6bhwvuhpd1b7m1ao.jpg",
+        "assets/images/car-list/Rolls-Royce-Cullinan-2022-For-Rent-in-Dubai-8.jpg",
+        "assets/images/car-list/Rolls-Royce-Cullinan-2023-For-Rent-1.jpg",
+        "assets/images/car-list/Rolls-Royce-Cullinan-2023-For-Rent-6.jpg"
+      ]
+    },
+    {
+      "id": "porsche-911",
+      "brand": "Porsche",
+      "model": "911",
+      "year": 2021,
+      "location": "Dubai, United Arab Emirates",
+      "pricePerDayAED": 3000,
+      "condition": "New",
+      "fuel": "Petrol",
+      "doors": 2,
+      "color": "Black",
+      "mileageLimit": "250 km",
+      "seats": 2,
+      "transmission": "PDK",
+      "description": "Iconic handling and everyday usability in a timeless design.",
+      "images": [
+        "assets/images/car-list/porsche-911-2024-For-Rent-in-Dubai-2.jpg",
+        "assets/images/car-list/porsche-911-2024-For-Rent-in-Dubai-3.jpg",
+        "assets/images/car-list/porsche-911-2024-For-Rent-in-Dubai-6.jpg",
+        "assets/images/car-list/porsche-911-2024-2.jpg",
+        "assets/images/car-list/porsche-911-2024-3.jpg"
+
+      ]
+    },
+
+    {
+        "id": "mercedes-G-class",
+        "brand": "Mercedes",
+        "model": "G Class",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1600,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "250 km",
+        "seats": 4,
+        "transmission": "PDK",
+        "description": "Embark on an adventure in luxury with our Mercedes G Class 2022. Combining iconic design with cutting-edge technology, it ensures a refined and powerful driving experience. Explore Dubai with style.",
+
+        "images": [
+          "assets/images/car-list/Mercedes-G-Class-2022-For-Rent-5.jpg",
+          "assets/images/car-list/Mercedes-G-Class-2022-For-Rent-3.jpg",
+          "assets/images/car-list/Mercedes-G-Class-2022-For-Rent-4.jpg",
+          "assets/images/car-list/Mercedes-G-Class-2022-For-Rent-5-qvumddfcn4vkb3bbuq1lzlwqhkgrvvx1pun2b2in0w.jpg",
+          "assets/images/car-list/Mercedes-G-Class-2022-For-Rent-2.jpg"
+  
+        ]
+      },
+
+
+      {
+        "id": "Bmw-7-Series-2024",
+        "brand": "BMW",
+        "model": "7-Series-2024",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "White",
+        "mileageLimit": "180 km",
+        "seats": 4,
+        "transmission": "PDK",
+        "description": "Embrace luxury and innovation with our BMW 7 Series 2024. Meticulously crafted with cutting-edge technology, it offers unparalleled comfort and performance. Explore Dubai in opulent style.",
+
+        "images": [
+          "assets/images/car-list/BMW-7-series-2024-For-Rent-6.jpg",
+          "assets/images/car-list/BMW-7-series-2024-For-Rent-7.jpg",
+          "assets/images/car-list/Bmw-7-Series-2024-For-Rent-In-Dubai-1.jpg",
+          "assets/images/car-list/Bmw-7-Series-2024-For-Rent-In-Dubai-9.jpg",
+          "assets/images/car-list/Bmw-7-Series-2024-For-Rent-In-Dubai-10.jpg"
+  
+        ]
+      },
+
+      {
+        "id": "Range Rover Sports SVR",
+        "brand": "Range Rover",
+        "model": "Sports",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "150 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Unleash exhilarating performance with our Range Rover Sport SVR 2021. Combining dynamic design with powerful capabilities, it redefines driving excellence. Experience luxury and speed.",
+        "images": [
+            "assets/images/car-list/Range-Rover-sports-SVR-2021-For-Rent-3.jpg",
+            "assets/images/car-list/Range-Rover-sports-SVR-2021-For-Rent-5.JPG",
+            "assets/images/car-list/Range-Rover-sports-2024-For-Rent-In-Dubai-4.JPG",
+          "assets/images/car-list/Range-Rover-Sports-SVR-2024-For-Rent-1.JPG",
+          "assets/images/car-list/Range-Rover-Sports-SVR-2024-For-Rent-5.JPG"
+        ]
+      },
+      {
+        "id": "Lamborghini Evo Spyder",
+        "brand": "Lamborghini Evo Spyder",
+        "model": "Sports",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 3200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 2,
+        "color": "Yellow",
+        "mileageLimit": "300 km",
+        "seats": 2,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Lamborghini Huracan Evo Spyder 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Lamborghini-Evo-spyder-2022-For-Rent-1.jpg",
+            "assets/images/car-list/Lamborghini-Evo-spyder-2022-For-Rent-4.JPG",
+            "assets/images/car-list/Lamborghini-Evo-Spyder-for-Rent-in-Dubai-1.JPG",
+          "assets/images/car-list/Lamborghini-Evo-Spyder-for-Rent-in-Dubai-2.JPG",
+          "assets/images/car-list/Lamborghini-Evo-Spyder-for-Rent-in-Dubai-8.JPG"
+        ]
+      },
+      {
+        "id": "Bentley Bentayga 2023",
+        "brand": "Bentley Bentayga 2023",
+        "model": "Sports",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 2300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Gray",
+        "mileageLimit": "210 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Experience luxury and power with our Bentley Bentayga 2023. Crafted for elegance and performance, it’s the perfect blend of sophistication and capability. Explore Dubai in ultimate style and comfort.",
+        "images": [
+            "assets/images/car-list/For-rent-in-dubai-Bentley-bentayga-2023-1.jpg",
+            "assets/images/car-list/For-rent-in-dubai-Bentley-bentayga-2023-2.JPG",
+            "assets/images/car-list/For-rent-in-dubai-Bentley-bentayga-2023-3.JPG",
+          "assets/images/car-list/Bentley-bentayga-2023-For-Rent-3.JPG",
+          "assets/images/car-list/Bentley-bentayga-2023-For-Rent-5.JPG"
+        ]
+      },
+      {
+        "id": "Lamborghini Urus 2024",
+        "brand": "Lamborghini Urus 2024",
+        "model": "Sports",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 2800,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "240 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Lamborghini Urus 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Lamborghini-Urus-For-Rent-1.jpg",
+            "assets/images/car-list/Lamborghini-Urus-For-Rent-3.JPG",
+            "assets/images/car-list/Lamborghini-Urus-For-Rent-5.JPG",
+          "assets/images/car-list/Black-urus.-2022-3.JPG",
+          "assets/images/car-list/Black-urus.-2022-4.JPG"
+        ]
+      },
+      
+      {
+        "id": "Mercedes S Class 2022",
+        "brand": "Mercedes S Class 2022",
+        "model": "Luxury SUV",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "230 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Experience the epitome of luxury with our Mercedes S Class 2022. Impeccable craftsmanship meets cutting-edge technology for a journey of unparalleled comfort and sophistication. Elevate your travels in Dubai.",
+        "images": [
+            "assets/images/car-list/Mercedes-S-class-2023-For-Rent-7.jpg",
+            "assets/images/car-list/Mercedes-S-class-2023-For-Rent-8.JPG",
+            "assets/images/car-list/Mercedes-S-Class-Rent-In-Dubai-1.JPG",
+          "assets/images/car-list/Mercedes-S-Class-Rent-In-Dubai-8.JPG",
+          "assets/images/car-list/Mercedes-S-Class-Rent-In-Dubai-9.JPG"
+        ]
+      },
+      {
+        "id": "Rolls Royce Ghost",
+        "brand": "Rolls Royce Ghost",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 2800,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Grey",
+        "mileageLimit": "200 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Embrace unparalleled elegance with our Rolls Royce Ghost 2023. Crafted to perfection, it offers a seamless blend of luxury and performance. Experience sophistication on the roads of Dubai.",
+        "images": [
+            "assets/images/car-list/Rolls-Royce-Ghost-Rent-in-Dubai-1.JPG",
+          "assets/images/car-list/Rolls-Royce-Ghost-Rent-in-Dubai-3.JPG",
+          "assets/images/car-list/Rolls-Royce-Ghost-2023-for-Rent-4.JPG",
+          "assets/images/car-list/Rolls-Royce-Ghost-2023-for-Rent-5.JPG",
+          "assets/images/car-list/Rolls-Royce-Ghost-2023-for-Rent-6.JPG"
+        ]
+      },
+      {
+        "id": "Escalade Cadillac 2023",
+        "brand": "Escalade Cadillac 2023",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 2,
+        "color": "Black",
+        "mileageLimit": "200 km",
+        "seats": 2,
+        "transmission": "Automatic",
+        "description": "Experience unparalleled luxury with our Cadillac Escalade 2023. Merging iconic design with cutting-edge technology, it offers an opulent driving experience. Explore Dubai's streets in style and sophistication .",
+        "images": [
+            "assets/images/car-list/Escalade-Cadillac-2023-For-Rent-Dubai-2.jpg",
+            "assets/images/car-list/Escalade-Cadillac-2023-For-Rent-Dubai-4.JPG",
+            "assets/images/car-list/Escalade-Cadillac-2023-For-Rent-5.JPG",
+          "assets/images/car-list/Escalade-Cadillac-2023-For-Rent-6.JPG",
+          "assets/images/car-list/Escalade-Cadillac-2023-For-Rent-Dubai-7.JPG"
+        ]
+      },
+      {
+        "id": "Mercedes Vito 2022",
+        "brand": "Mercedes Vito 2022",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "190 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Experience versatility and reliability with our Mercedes Vito 2022. Designed for comfort and practicality, it's the perfect choice for both business and leisure travel. Explore Dubai with ease.",
+        "images": [
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-1.jpg",
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-3.JPG",
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-4.JPG",
+          "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-5.JPG",
+          "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-6.JPG"
+        ]
+      },
+      {
+        "id": "Mercedes Vito 2022",
+        "brand": "Mercedes Vito 2022",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "190 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Experience versatility and reliability with our Mercedes Vito 2022. Designed for comfort and practicality, it's the perfect choice for both business and leisure travel. Explore Dubai with ease.",
+        "images": [
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-1.jpg",
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-3.JPG",
+            "assets/images/car-list/Mercedes-Vito-2022-For-Rent-4.JPG",
+          "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-5.JPG",
+          "assets/images/car-list/Mercedes-Vito-2022-For-Rent-In-Dubai-6.JPG"
+        ]
+      },
+      {
+        "id": "Land Rover Defender 2025",
+        "brand": "Land Rover Defender 2025",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 850,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "180 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Conquer any terrain with our Land Rover Defender 2025. Built for adventure and reliability, it ensures a seamless journey wherever you roam. Experience rugged luxury.",
+        "images": [
+            "assets/images/car-list/Land-Rover-Defender-2025-1.jpg",
+            "assets/images/car-list/Land-Rover-defender-2025-3.JPG",
+            "assets/images/car-list/Land-Rover-defender-2025-6.JPG",
+          "assets/images/car-list/Land-Rover-Defender-2025-7.JPG"
+        ]
+      },
+      {
+        "id": "Nissan Patrol Platinum 2025 (Black)",
+        "brand": "Nissan Patrol Platinum 2025 (Black)",
+        "model": "Luxury SUV",
+        "year": 2025,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 750,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "250 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Rent the Nissan Patrol 2025 today and experience luxury and power on your Dubai adventure.",
+        "images": [
+            "assets/images/car-list/Nissan-patrol-platinum-2025-Black-1.jpg",
+            "assets/images/car-list/Nissan-patrol-platinum-2025-Black-4.JPG",
+            "assets/images/car-list/Nissan-patrol-platinum-2025-Black-5.JPG",
+          "assets/images/car-list/Nissan-patrol-platinum-2025-Black-8.JPG"
+        ]
+      },
+      {
+        "id": "Toyota Land Cruiser 2023",
+        "brand": "Toyota Land Cruiser 2023",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 450,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "White",
+        "mileageLimit": "180 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Unleash legendary performance with our Toyota Land Cruiser 2023. Built to conquer any terrain with reliability and comfort, it's the ultimate adventure companion. Explore Dubai's landscapes with confidence.",
+        "images": [
+            "assets/images/car-list/Toyota-Land-Cruiser-2023-For-Rent-2.jpg",
+            "assets/images/car-list/Toyota-Land-Cruiser-2023-For-Rent-5.JPG",
+            "assets/images/car-list/Toyota-Land-Cruiser-2023-For-Rent-6.JPG"
+        ]
+      },
+      {
+        "id": "Audi A6 2023",
+        "brand": "Audi A6 2023",
+        "model": "Luxury Saloon",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 500,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "210 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Elevate your driving experience with our Audi A6 2023. Crafted with precision and sophistication, it offers advanced technology and luxurious comfort. Explore Dubai in style and elegance.",
+        "images": [
+            "assets/images/car-list/Audi-A6-2023-For-Rent-In-Dubai-1.jpg",
+            "assets/images/car-list/Audi-A6-2023-For-Rent-In-Dubai-3.JPG",
+            "assets/images/car-list/Audi-A6-2023-For-Rent-In-Dubai-5.JPG",
+            "assets/images/car-list/Audi-A6-2023-fOR-reNT-2.JPG",
+            "assets/images/car-list/Audi-A6-2023-fOR-reNT-3.JPG"
+        ]
+      },
+      {
+        "id": "Nissan Patrol 2023",
+        "brand": "Nissan Patrol 2023",
+        "model": "Luxury SUV",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 450,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "240 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Command the road with our Nissan Patrol 2023. Combining power and sophistication, it offers unparalleled comfort and capability for your journeys. Explore Dubai's terrain with confidence and style.",
+        "images": [
+            "assets/images/car-list/Nissan-Patrol-2023-For-Rent-in-Dubai-1.jpg",
+            "assets/images/car-list/Nissan-Patrol-2023-For-Rent-in-Dubai-2.JPG",
+            "assets/images/car-list/Nissan-Patrol-2023-For-Rent-in-Dubai-5.JPG",
+            "assets/images/car-list/nissan-patrol-2025-rental-dubai-3.JPG",
+            "assets/images/car-list/nissan-patrol-2025-rental-dubai-4.JPG"
+        ]
+      },
+      {
+        "id": "Kia Sorento 2023",
+        "brand": "Kia Sorento 2023",
+        "model": "Economy Suv",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "210 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Kia Sorento 2023. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Sorento-for-rent-dubai-1.jpg",
+            "assets/images/car-list/Kia-Sorento-2023-For-Rent-4-1.JPG",
+            "assets/images/car-list/Kia-Sorento-2023-for-rent-in-dubai-1.JPG",
+            "assets/images/car-list/Kia-Sorento-2023-for-rent-in-dubai-3.JPG",
+            "assets/images/car-list/Kia-Sorento-2023-For-Rent-2-1.JPG"
+        ]
+      },
+      {
+        "id": "Kia Carnival 2025",
+        "brand": "Kia Carnival 2025",
+        "model": "Economy Suv",
+        "year": 2025,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 400,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "White",
+        "mileageLimit": "200 km",
+        "seats": 8,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Kia Carnival 2025. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Kia-Carnival-2025-for-rent-dubai-3.jpg",
+            "assets/images/car-list/Kia-Carnival-2025-for-rent-dubai-4.JPG",
+            "assets/images/car-list/Kia-Carnival-2025-for-rent-dubai-5.JPG",
+            "assets/images/car-list/Interior-back-Kia-carnival-2025-for-rent.JPG",
+            "assets/images/car-list/Interior-Front-Kia-carnival-2025-for-rent.JPG"
+        ]
+      },
+
+      {
+        "id": "Bmw 2 Series 2024",
+        "brand": "Bmw 2 Series 2024",
+        "model": "Luxury Saloon",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "silver",
+        "mileageLimit": "220 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Luxury Saloon BMW 2 Series 2024. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Bmw-2-Series-2024-Rent-in-dubai-4.jpg",
+            "assets/images/car-list/Bmw-2-Series-2024-Rent-in-dubai-5.JPG",
+            "assets/images/car-list/BMW-2-series-For-Rent-Dubai-2.JPG",
+            "assets/images/car-list/BMW-2-series-For-Rent-Dubai-5.JPG",
+            "assets/images/car-list/BMW-2-series-For-Rent-Dubai-6.JPG"
+        ]
+      },
+
+      {
+        "id": "Kia Sportage 2023",
+        "brand": "Kia Sportage 2023",
+        "model": "Economy Suv",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 220,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Grey",
+        "mileageLimit": "220 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Economy Suv Kia Sportage 2023. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Kia-Sportage-2023-For-Rent-4.jpg",
+            "assets/images/car-list/Kia-Sportage-2023-For-Rent-7.JPG",
+            "assets/images/car-list/Kia-Sportage-For-Rent-In-Dubai-1.JPG",
+            "assets/images/car-list/Kia-Sportage-For-Rent-In-Dubai-2.JPG",
+            "assets/images/car-list/Kia-Sportage-For-Rent-In-Dubai-7.JPG"
+        ]
+      },
+
+      {
+        "id": "Nissan Sunny 2023",
+        "brand": "Nissan Sunny 2023",
+        "model": "Economy Saloon",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 120,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Gray",
+        "mileageLimit": "230 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Nissan Sunny 2023. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Nissan-Sunny-2023-For-Rent-3.jpg",
+            "assets/images/car-list/Nissan-Sunny-2023-For-Rent-5.JPG",
+            "assets/images/car-list/Nissan-Sunny-2023-Rent-Dubai-1.JPG",
+            "assets/images/car-list/Nissan-Sunny-2023-Rent-Dubai-2.JPG",
+            "assets/images/car-list/Nissan-Sunny-2023-Rent-Dubai-4.JPG"
+        ]
+      },
+
+
+      {
+        "id": "Bmw 420i 2023",
+        "brand": "Bmw 420i 2023",
+        "model": "Luxury sports",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 600,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 2,
+        "color": "Black/white",
+        "mileageLimit": "250 km",
+        "seats": 4,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our Bmw 420i 2023. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/Bmw-420i-2023-For-Rent-In-Dbai-1.jpg",
+            "assets/images/car-list/Bmw-420i-2023-For-Rent-In-Dbai-7.JPG",
+            "assets/images/car-list/Bmw-420i-2023-For-Rent-In-Dbai-2.JPG",
+            "assets/images/car-list/BMW-4-Series-2023-For-Rent-6.JPG",
+            "assets/images/car-list/BMW-4-Series-2023-For-Rent-14.JPG"
+        ]
+      },
+      {
+        "id": "GMC Yukon at4 2025",
+        "brand": "GMC Yukon at4 2025",
+        "model": "Luxury Suv",
+        "year": 2025,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 650,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "220 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Experience comfort and capability with our GMC Yukon at4 2025. Versatile and spacious, it's equipped for any adventure or daily drive. Explore Dubai with ease and reliability.",
+        "images": [
+            "assets/images/car-list/GMC-Yukon-at4-2025-1.jpg",
+            "assets/images/car-list/GMC-Yukon-at4-2025-2.JPG",
+            "assets/images/car-list/GMC-Yukon-at4-20255-3.JPG",
+            "assets/images/car-list/GMC-Yukon-at4-20255-2.JPG",
+            "assets/images/car-list/GMC-Yukon-at4-20255-3.JPG"
+        ]
+      },
+      {
+        "id": "Kia Rio 2022",
+        "brand": "Kia Rio 2022",
+        "model": "Economy Saloon",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 120,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "white",
+        "mileageLimit": "210 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia Rio 2022. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-Rio-2022-For-Rent-1.jpg",
+            "assets/images/car-list/Kia-Rio-2022-For-Rent-3.JPG",
+            "assets/images/car-list/Kia-Rio-2022-For-Rent-4.JPG",
+          "assets/images/car-list/Kia-Rio-2022-For-Rent-6.JPG",
+          "assets/images/car-list/Kia-Rio-2022-For-Rent-8.JPG"
+        ]
+      },
+      {
+        "id": "Kia Cerato 2022",
+        "brand": "Kia Cerato 2022",
+        "model": "Economy Saloon",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 130,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "white/Silver",
+        "mileageLimit": "240 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia Cerato 2022. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-Cerato-2021-For-Rent-1.jpg",
+            "assets/images/car-list/Kia-Cerato-2021-For-Rent-2.JPG",
+            "assets/images/car-list/Kia-Cerato-2021-For-Rent-3.JPG",
+          "assets/images/car-list/Kia-Cerato-2021-For-Rent-4.JPG",
+          "assets/images/car-list/Kia-Cerato-2021-For-Rent-5.JPG"
+        ]
+      },
+
+      {
+        "id": "Range Rover Vouge 2024",
+        "brand": "Range Rover Vouge 2024",
+        "model": "Luxury Suv",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1400,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black/white",
+        "mileageLimit": "240 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Range Rover Vouge 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Range-Rover-Vouge-2023-For-Rent-4.jpg",
+            "assets/images/car-list/Range-Rover-Vouge-2023-For-Rent-8.JPG",
+            "assets/images/car-list/Range-Rover-Vouge-2024-Black-For-Rent-In-Dubai-1.JPG",
+          "assets/images/car-list/Range-Rover-Vouge-2024-Black-For-Rent-In-Dubai-3.JPG",
+          "assets/images/car-list/Range-Rover-Vouge-2024-Black-For-Rent-In-Dubai-5.JPG"
+        ]
+      },
+
+      {
+        "id": "Range Rover Vouge 2021",
+        "brand": "Range Rover Vouge 2021",
+        "model": "Luxury Suv",
+        "year": 2021,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1000,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "white/Silver",
+        "mileageLimit": "220 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Range Rover Vouge 2021. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Range-Rover-Vouge-2021-For-Rent-1.jpg",
+            "assets/images/car-list/Range-Rover-Vouge-2021-For-Rent-2.JPG",
+            "assets/images/car-list/Range-Rover-Vouge-2021-For-Rent-3.JPG",
+          "assets/images/car-list/Range-Rover-Vouge-2021-For-Rent-4.JPG",
+          "assets/images/car-list/Range-Rover-Vouge-2021-For-Rent-6.JPG"
+        ]
+      },
+
+       
+      {
+        "id": "Audi A3 2024",
+        "brand": "Audi A3 2024",
+        "model": "Luxury Saloon",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 250,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "white/Silver",
+        "mileageLimit": "200 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Audi A3 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Audi-a3-2024-For-Rent-1.jpg",
+            "assets/images/car-list/Audi-a3-2024-For-Rent-3.JPG",
+            "assets/images/car-list/Audi-a3-2024-For-Rent-4.JPG",
+          "assets/images/car-list/Audi-a3-2024-For-Rent-5.JPG",
+          "assets/images/car-list/Audi-a3-2024-For-Rent-6.JPG"
+        ]
+      },
+
+      {
+        "id": "Mercedes A class",
+        "brand": "Mercedes A class",
+        "model": "Luxury Saloon",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 600,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black/white",
+        "mileageLimit": "200 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Mercedes A class. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Mercedes-A-class-2023-For-Rent-11.jpg",
+            "assets/images/car-list/Mercedes-A-class-2023-For-Rent-14.JPG",
+            "assets/images/car-list/Mercedes-A-class-For-Rent-In-Dubai-1.JPG",
+          "assets/images/car-list/Mercedes-A-class-For-Rent-In-Dubai-7.JPG",
+          "assets/images/car-list/Mercedes-A-class-For-Rent-In-Dubai-3.JPG"
+        ]
+      },
+
+      {
+        "id": "Kia pegas 2023",
+        "brand": "Kia pegas 2023",
+        "model": "Economy Saloon",
+        "year": 2023,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 110,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Silver",
+        "mileageLimit": "230 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia pegas 2023 . Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-Pegas-2023-For-Rent-2.jpg",
+            "assets/images/car-list/Kia-Pegas-2023-For-Rent-3.JPG",
+            "assets/images/car-list/Kia-Pegas-2023-For-Rent-4.JPG",
+          "assets/images/car-list/Kia-Pegas-2023-For-Rent-5.JPG",
+          "assets/images/car-list/Kia-Pegas-2023-For-Rent-6.JPG"
+        ]
+      },
+      {
+        "id": "Kia K3 Hatchback",
+        "brand": "Kia K3 Hatchback",
+        "model": "Economy Saloon",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 150,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Blue",
+        "mileageLimit": "230 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia K3 Hatchback 2022. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-K3-Hatchback-2024-1.jpg",
+            "assets/images/car-list/Kia-K3-Hatchback-2024-3.JPG",
+            "assets/images/car-list/Kia-K3-Hatchback-2024-4.JPG",
+          "assets/images/car-list/Kia-K3-Hatchback-2024-5.JPG",
+          "assets/images/car-list/Kia-K3-Hatchback-2024-6.JPG"
+        ]
+      },
+      {
+        "id": "Mercedes C Class 2024",
+        "brand": "Mercedes C Class 2024",
+        "model": "Luxury Saloon",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 500,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "240 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Mercedes C Class 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Mercedes-C-class-2024-For-Rent-1.jpg",
+            "assets/images/car-list/Mercedes-C-class-2024-For-Rent-2.JPG",
+            "assets/images/car-list/Mercedes-C-class-2024-For-Rent-3.JPG",
+          "assets/images/car-list/Mercedes-C-class-2024-For-Rent-4.JPG",
+          "assets/images/car-list/Mercedes-C-class-2024-For-Rent-5.JPG"
+        ]
+      },
+      {
+        "id": "Audi a3 2021",
+        "brand": "Audi a3 2021",
+        "model": "Luxury Saloon",
+        "year": 2021,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Silver",
+        "mileageLimit": "210 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Audi a3 2021. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Audi-a3-2021-For-Rent-1.jpg",
+            "assets/images/car-list/Audi-a3-2021-For-Rent-2.JPG",
+            "assets/images/car-list/Audi-a3-2021-For-Rent-3.JPG",
+          "assets/images/car-list/Audi-a3-2021-For-Rent-4.JPG",
+          "assets/images/car-list/Audi-a3-2021-For-Rent-5.JPG"
+        ]
+      },
+      {
+        "id": "Kia K3 2024",
+        "brand": "Kia K3 2024",
+        "model": "Economy",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 150,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "white",
+        "mileageLimit": "220 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia K3 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-K3-2024-1-qtwlvp3ps9u7s2un5d3ozg0p1wx3xamvg1ys7269e8.jpg",
+            "assets/images/car-list/Kia-K3-2024-2.JPG",
+            "assets/images/car-list/Kia-K3-2024-3.JPG",
+          "assets/images/car-list/Kia-K3-2024-5.JPG",
+          "assets/images/car-list/Kia-K3-2024-6.JPG"
+        ]
+      },
+      {
+        "id": "Bmw 5 Series 2024",
+        "brand": "Bmw 5 Series 2024",
+        "model": "Luxury Saloon",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 550,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Gray",
+        "mileageLimit": "230 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Experience the perfect blend of luxury and performance with our BMW 5 Series 2024. Crafted with precision and sophistication, it offers a dynamic driving experience. Explore Dubai with elegance and style.",
+        "images": [
+            "assets/images/car-list/Bmw-5-Series-2024-For-Rent-Dubai-1.jpg",
+            "assets/images/car-list/Bmw-5-Series-2024-For-Rent-Dubai-2.JPG",
+            "assets/images/car-list/Bmw-5-Series-2024-For-Rent-Dubai-6.JPG",
+          "assets/images/car-list/Bmw-5-Series-For-Rent-5.JPG",
+          "assets/images/car-list/Bmw-5-Series-For-Rent-6.JPG"
+        ]
+      },
+      {
+        "id": "Chevrolet Tahoe 2024",
+        "brand": "Chevrolet Tahoe 2024",
+        "model": "Luxury Suv",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 600,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "260 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Chevrolet Tahoe 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Chevrolet-Tahoe-2024-For-Rent-1.jpg",
+            "assets/images/car-list/Chevrolet-Tahoe-2024-For-Rent-3.JPG",
+            "assets/images/car-list/Chevrolet-Tahoe-2024-For-Rent-9.JPG",
+          "assets/images/car-list/Tahoe-2024-For-Rent-5.JPG",
+          "assets/images/car-list/Tahoe-2024-For-Rent-7.JPG"
+        ]
+      },
+      {
+        "id": "Kia Caren 2025",
+        "brand": "Kia Caren 2025",
+        "model": "Economy Suv",
+        "year": 2025,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 200,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "White",
+        "mileageLimit": "220 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Upgrade your journey with the Kia Carens 2025—a stylish and spacious MPV designed for ultimate comfort and convenience. With its modern features and smooth performance, it's perfect for family trips or business travel.",
+        "images": [
+            "assets/images/car-list/Kia-Caren-2025-2.jpg",
+            "assets/images/car-list/Kia-Caren-2025-3.JPG",
+            "assets/images/car-list/Kia-Caren-2025-4.JPG",
+          "assets/images/car-list/Kia-Caren-2025-5.JPG",
+          "assets/images/car-list/Kia-Caren-2025-6.JPG"
+        ]
+      },
+      {
+        "id": "BMW X4 2022",
+        "brand": "BMW X4 2022",
+        "model": "Luxury Suv",
+        "year": 2022,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 600,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Gray",
+        "mileageLimit": "250 km",
+        "seats": 5,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our BMW X4 2022. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/BMW-X4-2022-For-Rent-In-Dubai-1.jpg",
+            "assets/images/car-list/BMW-X4-2022-For-Rent-In-Dubai-2.JPG",
+            "assets/images/car-list/BMW-X4-2022-For-Rent-In-Dubai-9.JPG",
+          "assets/images/car-list/BMW-x4-2023-For-Rent-7.JPG",
+          "assets/images/car-list/BMW-x4-2023-For-Rent-10.JPG"
+        ]
+      },
+
+
+      {
+        "id": "Range Rover Sports 2024",
+        "brand": "Range Rover Sports 2024",
+        "model": "Luxury sports",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 1300,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "White",
+        "mileageLimit": "260 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Range Rover Sports 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Range-Rover-sports-2024-For-Rent-In-Dubai-4.jpg",
+            "assets/images/car-list/Range-Rover-sports-2024-For-Rent-In-Dubai-6.JPG",
+            "assets/images/car-list/Range-Rover-Sports-SVR-2024-For-Rent-1.JPG",
+          "assets/images/car-list/Range-Rover-Sports-SVR-2024-For-Rent-3-1.JPG",
+          "assets/images/car-list/Range-Rover-Sports-SVR-2024-For-Rent-4-1.JPG"
+        ]
+      },
+
+
+      {
+        "id": "Kia Seltos 2024",
+        "brand": "Kia Seltos 2024",
+        "model": "Economy Suv",
+        "year": 2024,
+        "location": "Dubai, United Arab Emirates",
+        "pricePerDayAED": 180,
+        "condition": "New",
+        "fuel": "Petrol",
+        "doors": 4,
+        "color": "Black",
+        "mileageLimit": "240 km",
+        "seats": 7,
+        "transmission": "Automatic",
+        "description": "Embark on a thrilling adventure with our Kia Seltos 2024. Designed for ultimate performance and style, this masterpiece promises an unforgettable ride. Experience luxury and power.",
+        "images": [
+            "assets/images/car-list/Kia-Seltos-2024-For-Rent-2.jpg",
+            "assets/images/car-list/Kia-Seltos-2024-For-Rent-6.JPG",
+            "assets/images/car-list/Kia-Seltos-2024-For-Rent-In-Dubai-1.JPG",
+          "assets/images/car-list/Kia-Seltos-2024-For-Rent-In-Dubai-2.JPG",
+          "assets/images/car-list/Kia-Seltos-2024-For-Rent-In-Dubai-6.JPG"
+        ]
+      }
+
+      
+
+
+
+  ]
+}
